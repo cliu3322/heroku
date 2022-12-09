@@ -9,6 +9,6 @@
   "dependencies": {
     "@line/bot-sdk": "^6.8.0",
     "btc-value": "^2.1.1",
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   }
 }
